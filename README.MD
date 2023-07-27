@@ -1,0 +1,1 @@
+The current project is about recipes, so far i have made a new repository called odins-recipes making it public and used my terminal to move it into my local machine, i have also set up a new readme file saved within that.
